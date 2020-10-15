@@ -21,6 +21,8 @@ public class Parenthesis{
             } else{
                 clsCount++;
             }
+            // we have to keep track of closing parentheses, as if they are more than
+            // opening ones, than the expression is false.
             if(opCount < clsCount)
             return false;
         }
