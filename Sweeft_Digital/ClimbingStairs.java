@@ -1,5 +1,10 @@
-/* In this program I will use the formula C = n!/x!(n-x)!, where n is number of stairs
+/* 
+5.გვაქვს n სართულიანი კიბე, ერთ მოქმედებაში შეგვიძლია ავიდეთ 1 ან 2 საფეხურით. 
+დაწერეთ ფუნქცია რომელიც დაითვლის n სართულზე ასვლის ვარიანტების რაოდენობას.
+
+In this program I will use the formula C = n!/x!(n-x)!, where n is number of stairs
 and x is number of 2 steps that can be made at maximum.
+
 */
 import java.util.*;
 import java.math.*; 
